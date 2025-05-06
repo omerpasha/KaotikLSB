@@ -1,4 +1,4 @@
-# Kaotik LSB Steganography - Test Environment
+# Chaotic LSB Steganography - Test Environment
 
 This repository was created for independent testing of the Chaotic LSB algorithm developed as part of my master's thesis. The encoding and decoding processes were executed separately, and performance measurements were recorded.
 
