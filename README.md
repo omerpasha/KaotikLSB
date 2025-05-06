@@ -1,5 +1,5 @@
 # Kaotik LSB Steganography - Test Environment
 
-Bu repo, yüksek lisans tezim kapsamında geliştirilen Kaotik LSB algoritmasının bağımsız testleri için oluşturulmuştur. Encode ve decode işlemleri ayrı ayrı çalıştırılmış ve süre ölçümleri yapılmıştır.
+This repository was created for independent testing of the Chaotic LSB algorithm developed as part of my master's thesis. The encoding and decoding processes were executed separately, and performance measurements were recorded.
 
-Tezden elde edilen sonuçlar: `test_results.txt`
+Results obtained from the thesis can be found in: test_results.txt
