@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omeryalap.myapplication.app-merged_res-33:/drawable_first.png.flat",
+        "source": "com.omeryalap.myapplication.app-main-35:/drawable/first.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/drawable_placeholder.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/drawable/placeholder.png"
+    },
+    {
+        "merged": "com.omeryalap.myapplication.app-merged_res-33:/drawable_third.png.flat",
+        "source": "com.omeryalap.myapplication.app-main-35:/drawable/third.png"
+    },
+    {
+        "merged": "com.omeryalap.myapplication.app-merged_res-33:/drawable_fourth.png.flat",
+        "source": "com.omeryalap.myapplication.app-main-35:/drawable/fourth.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/drawable_lennarenkli.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/drawable/lennarenkli.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/drawable_icon.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.omeryalap.myapplication.app-merged_res-33:/drawable_second.png.flat",
+        "source": "com.omeryalap.myapplication.app-main-35:/drawable/second.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/drawable_lennaa.png.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/drawable/lennaa.png"
+    },
+    {
+        "merged": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/omer/.gradle/daemon/8.2/com.omeryalap.myapplication.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    }
+]
