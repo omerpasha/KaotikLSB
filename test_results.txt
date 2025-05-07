@@ -1,0 +1,158 @@
+First.png 1kb
+
+Encode süresi: 385.685667 ms
+Decode süresi: 257.082667 ms
+
+
+Second.png 1kb
+Encode süresi: 348.452708 ms
+Decode süresi: 251.590459 ms
+
+
+Third.png 1kb
+Encode süresi: 324.38425 ms
+Decode süresi: 302.197875 ms
+
+
+Fourth.png 1kb
+Encode süresi: 320.770334 ms
+Decode süresi: 300.219583 ms
+
+
+
+First.png 5kb
+
+Encode süresi: 851.643833 ms
+Decode süresi: 1782.516209 ms
+
+
+Second.png 5kb
+Encode süresi: 836.167001 ms
+Decode süresi: 1807.607376 ms
+
+
+
+
+Third.png 5kb
+Encode süresi: 822.539417 ms
+Decode süresi: 1908.097751 ms
+
+
+
+Fourth.png 5kb
+Encode süresi: 865.802834 ms
+Decode süresi: 1910.379001 ms
+
+
+
+
+
+First.png 10kb
+Encode süresi: 1395.103667 ms
+Decode süresi: 5442.26292 ms
+
+
+
+Second.png 10kb
+Encode süresi: 1447.485875 ms
+Decode süresi: 5534.966252 ms
+
+
+
+
+Third.png 10kb
+Encode süresi: 1414.733959 ms
+Decode süresi: 5598.43742 ms
+
+
+
+Fourth.png 10kb
+Encode süresi: 1391.845126 ms
+Decode süresi: 5388.296128 ms
+
+
+
+
+
+First.png 20kb
+Encode süresi: 2513.971543 ms
+Decode süresi: 15960.038007 ms
+
+
+
+Second.png 20kb
+Encode süresi: 2532.860627 ms
+Decode süresi: 16186.434341 ms
+
+
+
+
+
+Third.png 20kb
+Encode süresi: 2553.90496 ms
+Decode süresi: 16166.356466 ms
+
+
+
+
+Fourth.png 20kb
+Encode süresi: 2555.599292 ms
+Decode süresi: 15844.496674 ms
+
+
+
+First.png 30kb
+Encode süresi: 3561.001794 ms
+Decode süresi: 33229.911516 ms
+
+
+
+Second.png 30kb
+Encode süresi: 3493.573001 ms
+Decode süresi: 32795.286807 ms
+
+
+
+
+Third.png 30kb
+Encode süresi: 3500.265877 ms
+Decode süresi: 31684.786265 ms
+
+
+
+
+
+Fourth.png 30kb
+Encode süresi: 3482.126835 ms
+Decode süresi: 32832.459432 ms
+
+
+
+First.png 40kb
+Encode süresi: 4234.839127 ms
+Decode süresi: 55551.811693 ms
+
+
+
+Second.png 40kb
+Encode süresi: 4272.946711 ms
+Decode süresi: 55184.451318 ms
+
+
+
+
+Third.png40kb
+Encode süresi: 4267.450586 ms
+Decode süresi: 54566.285234 ms
+
+
+
+Fourth.png 40kb
+Encode süresi: 4273.479127 ms
+Decode süresi: 55930.593527 ms
+
+
+
+
+
+
